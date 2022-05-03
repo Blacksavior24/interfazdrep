@@ -391,6 +391,11 @@ div#preloader {
     left: -100%;
   }
 }
+.parrilla{
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  gap: 5px 10px;
+}
 
 /**
 * Mobile Navigation 
